@@ -33,11 +33,15 @@ section.main span{
 }
 
 section.hero {
-  background-image: url("Imagenes/background.png");
+  background-color: white;
+}
+
+section.hero h2 span{
+    font-family: 'Trump Soft Pro';
 }
 
 section.hero h2{
-    font-family: 'Azonix';
+  font-family: 'Azonix';
 }
 
 section.eleccion{
